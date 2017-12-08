@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSpeakNumbers" duration-ms="85" started-at="2017-12-08T15:22:40Z" finished-at="2017-12-08T15:22:40Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="85" started-at="2017-12-08T15:22:40Z" finished-at="2017-12-08T15:22:40Z">
+      <class name="TestSpeakNumbers">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="setUp" is-config="true" duration-ms="17" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testSpeak()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="testSpeak" duration-ms="9" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpeak -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testSpeakExit()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="testSpeakExit" duration-ms="1" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpeakExit -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="setUp" is-config="true" duration-ms="0" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="tearDown" is-config="true" duration-ms="0" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="testSpeakOutOfRange()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="testSpeakOutOfRange" duration-ms="1" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSpeakOutOfRange -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="setUp" is-config="true" duration-ms="0" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestSpeakNumbers@4c203ea1]" name="tearDown" is-config="true" duration-ms="1" started-at="2017-12-08T23:22:40Z" finished-at="2017-12-08T23:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestSpeakNumbers -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestSpeakNumbers -->
+</testng-results>
