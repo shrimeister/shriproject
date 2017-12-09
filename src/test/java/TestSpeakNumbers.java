@@ -38,7 +38,7 @@ public class TestSpeakNumbers {
         in = new ByteArrayInputStream("0".getBytes());
         System.setIn(in);
         s.printWords(new Scanner(System.in));
-        assert(out.toString().contains(""));
+        assert(out.toString().contains("Zero"));
     }
 
     @Test
